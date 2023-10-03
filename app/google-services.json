@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933925163408",
+    "project_id": "beactive-42b0a",
+    "storage_bucket": "beactive-42b0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933925163408:android:b99229624297f422572315",
+        "android_client_info": {
+          "package_name": "com.example.beactive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeoaI0PO2Un54OwyFz8wSj22HNfK9el_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
